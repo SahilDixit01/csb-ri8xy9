@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://sahildixit01.github.io/csb-ri8xy9/static/js/main.913fde21.chunk.js",
+    "main.js.map": "https://sahildixit01.github.io/csb-ri8xy9/static/js/main.913fde21.chunk.js.map",
+    "runtime-main.js": "https://sahildixit01.github.io/csb-ri8xy9/static/js/runtime-main.34708f3b.js",
+    "runtime-main.js.map": "https://sahildixit01.github.io/csb-ri8xy9/static/js/runtime-main.34708f3b.js.map",
+    "static/js/2.17e1ab02.chunk.js": "https://sahildixit01.github.io/csb-ri8xy9/static/js/2.17e1ab02.chunk.js",
+    "static/js/2.17e1ab02.chunk.js.map": "https://sahildixit01.github.io/csb-ri8xy9/static/js/2.17e1ab02.chunk.js.map",
+    "index.html": "https://sahildixit01.github.io/csb-ri8xy9/index.html",
+    "precache-manifest.1d61459c48903cc26c676fb8ecdc2d40.js": "https://sahildixit01.github.io/csb-ri8xy9/precache-manifest.1d61459c48903cc26c676fb8ecdc2d40.js",
+    "service-worker.js": "https://sahildixit01.github.io/csb-ri8xy9/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34708f3b.js",
+    "static/js/2.17e1ab02.chunk.js",
+    "static/js/main.913fde21.chunk.js"
+  ]
+}
